@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skokann&label=Profile%20views&color=0e75b6&style=flat" alt="skokann" /> </p>
 
-- 🔭 I’m currently working on **some FE projects**
+- 🔭 I’m currently working on **NEXT JS + SANITY CMS BLOG **
 
 - 🌱 I’m currently learning **Deeper Javascript + NEXT.JS**
 
