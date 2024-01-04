@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **some FE projects**
 
-- 🌱 I’m currently learning **Deeper Javascript + react**
+- 🌱 I’m currently learning **Deeper Javascript + NEXT.JS**
 
 - 👨‍💻 All of my projects are available at [https://www.zubryckyj.dev/](https://www.zubryckyj.dev/)
 
