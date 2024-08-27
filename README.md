@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skokann&label=Profile%20views&color=0e75b6&style=flat" alt="skokann" /> </p>
 
-- 🔭 I’m currently working on G **
+- 🔭 I’m currently working on my personal projects
 
 - 🌱 I’m currently learning **Deeper Javascript + NEXT.JS**
 
