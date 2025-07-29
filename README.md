@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skokann&label=Profile%20views&color=0e75b6&style=flat" alt="skokann" /> </p>
 
-- 🔭 I’m currently working on [endrive app](https://www.endrive.cz/)
-
 - 👨‍💻 All of my projects are available at [https://zubryckyj.dev](https://zubryckyj.dev)
 
 - 📫 How to reach me **zubryckyj@icloud.com**
